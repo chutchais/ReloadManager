@@ -1,0 +1,10 @@
+c:\users\chutchais\documents\visual studio 2013\Projects\ReloadManager\ReloadManager\bin\Debug\ReloadManager.exe.config
+c:\users\chutchais\documents\visual studio 2013\Projects\ReloadManager\ReloadManager\bin\Debug\ReloadManager.exe
+c:\users\chutchais\documents\visual studio 2013\Projects\ReloadManager\ReloadManager\bin\Debug\ReloadManager.pdb
+c:\users\chutchais\documents\visual studio 2013\Projects\ReloadManager\ReloadManager\bin\Debug\ReloadManager.xml
+c:\users\chutchais\documents\visual studio 2013\Projects\ReloadManager\ReloadManager\obj\Debug\ReloadManager.Form1.resources
+c:\users\chutchais\documents\visual studio 2013\Projects\ReloadManager\ReloadManager\obj\Debug\ReloadManager.Resources.resources
+c:\users\chutchais\documents\visual studio 2013\Projects\ReloadManager\ReloadManager\obj\Debug\ReloadManager.vbproj.GenerateResource.Cache
+c:\users\chutchais\documents\visual studio 2013\Projects\ReloadManager\ReloadManager\obj\Debug\ReloadManager.exe
+c:\users\chutchais\documents\visual studio 2013\Projects\ReloadManager\ReloadManager\obj\Debug\ReloadManager.xml
+c:\users\chutchais\documents\visual studio 2013\Projects\ReloadManager\ReloadManager\obj\Debug\ReloadManager.pdb
